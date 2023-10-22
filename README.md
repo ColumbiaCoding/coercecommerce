@@ -39,29 +39,6 @@ The purpose is for management at an internet retail company to use the back end 
 
 <img src="https://img.shields.io/badge/Built%20with-Javascript-blue">
 
-
-<img src="https://img.shields.io/badge/Built%20with-Node-blue">
-
-
-<img src="https://img.shields.io/badge/Built%20with-HTML5-blue">
-
-<img src="https://img.shields.io/badge/Built%20with-CSS3-blue">
-
-<img src="https://img.shields.io/badge/Built%20with-Javascript-blue">
-
-
-<img src="https://img.shields.io/badge/Built%20with-Node-blue">
-
-<img src="https://img.shields.io/badge/Built%20with-Express-blue">
-
-
-<img src="https://img.shields.io/badge/Built%20with-HTML5-blue">
-
-<img src="https://img.shields.io/badge/Built%20with-CSS3-blue">
-
-<img src="https://img.shields.io/badge/Built%20with-Javascript-blue">
-
-
 <img src="https://img.shields.io/badge/Built%20with-Node-blue">
 
 <img src="https://img.shields.io/badge/Built%20with-Express-blue">
