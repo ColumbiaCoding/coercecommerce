@@ -22,13 +22,9 @@ This application is to built to support the back end for an e-commerce site. We
 
 The purpose is for management at an internet retail company to use the back end for my e-commerce website that uses the latest technologies so that a company can compete with other e-commerce companies
 
-## Screenshots
-
-<img src="./assets/images/image.png">
-
 ## Video
 
-<a href="https://drive.google.com/file/d/1WeN9vkFiY5b225xs5hFzBbV393V1bsEe/view">Link to Video</a>
+<a href="https://drive.google.com/file/d/1ulz64B71LYyMOMjB-HNPGjYDO1whG1mF/view">Link to Video</a>
 
 
 ## Technologies
